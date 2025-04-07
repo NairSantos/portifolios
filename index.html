@@ -16,20 +16,26 @@
 
 <body>
     <header>
-        <h1 id="titulo" class="text-center mt-3">Pokémon Art Portfolio</h1>
+        <h1 id="titulo" class="text-center mt-3">Portfolio</h1>
     </header>
 
     <main class="container text-center mt-4">
         <div class="d-flex flex-column align-items-center">
             <div id="card-destaque">
                 <p>
-                    Desde pequena, Pokémon sempre fez parte da minha vida. Não era só sobre capturar monstrinhos,
-                    mas sobre explorar mundos, criar histórias e me conectar com cada criatura de um jeito especial.
-                    O tempo passou, e essa paixão evoluiu junto comigo. Hoje, transformo esse amor em arte,
-                    dando vida a cada detalhe com traços e cores que refletem minha imaginação. Este portfólio é mais
-                    do que uma coleção de desenhos. É um pedacinho do meu universo Pokémon, onde cada ilustração
-                    carrega memórias, inspiração e um toque da minha essência. 🎨✨
+                    Este projeto é uma página simples criada com <strong>TypeScript</strong>, servindo como exemplo de
+                    portfólio.<br>
+                    Utilizei o <strong>Firebase</strong> para armazenar e organizar tudo, permitindo que as
+                    imagens e GIFs sejam carregados diretamente do banco de dados na nuvem.
+                    Tem um ilustrativo que eu fiz com meus desenhos do pokemon la primeira branch mas é apenas para 
+                    visualização, essa é uma versão alternativa pensando em você. ✨🛠️
                 </p>
+            </div>
+
+            <div class="d-flex align-items-center justify-content-center gap-2 mt-3 flex-wrap" id="upload-container">
+                <input type="file" class="form-control form-control-sm w-auto" id="fileInput" />
+                <button id="uploadButton" class="btn btn-sm" style="background-color: #fff9e6;">📤</button>
+                <span id="status" class="ms-2"></span>
             </div>
         </div>
 
@@ -54,7 +60,7 @@
         <p class="mb-0 autor">
             Feito com ❤️ e muita criatividade por <strong>Nair Santos</strong> 🌟
         </p>
-        <p class="mb-0 copyright">&copy; 2025 Pokémon Art Portfolio.</p>
+        <p class="mb-0 copyright">&copy; 2025 Portfolio.</p>
     </footer>
 
     <!-- Scripts -->
