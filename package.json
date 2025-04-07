@@ -1,0 +1,20 @@
+{
+  "name": "pokemon-art-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.4",
+    "firebase": "^11.6.0",
+    "typescript": "^5.8.2",
+    "vite": "^6.2.5"
+  }
+}
