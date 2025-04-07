@@ -1,10 +1,12 @@
-# Portfolio - Setup e Deploy
+# Pokémon Art Portfolio
 
 Este projeto exibe minhas artes de Pokémon exibindo imagens diretamente do Firebase Storage. Aqui está o guia passo a passo para configurar tudo corretamente.
 
 Mas essa branch é exclusivamente do meu portifolio de desenhos pessoal se você procura fazer o seu com o firebase storage tambem recomendo a branch:
-ou se procura um com base local recomendo a branch:
+<a href="https://github.com/NairSantos/portifolios/tree/portifolio_firebase" target="_blank">portifolio_firebase</a> 
 
+ou se procura um com base local recomendo a branch:
+<a href="https://github.com/NairSantos/portifolios/tree/portifolio_local" target="_blank">portifolio_local</a> 
 
 ## 🚀 1. Clonando o Repositório
 
