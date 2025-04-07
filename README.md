@@ -40,9 +40,13 @@ Acesse `http://localhost:5173/` para ver o site.
 
 Agora **Pokémon Art Portfolio** estará rodando e pronto para você ver minhas artes pokemons se for do seu interesse aqui está essa mesma versão hospedada: ! 🖼️✨
 
-espero que goste das minhas artes
-
 <div align="center"> 
+  
+  #  Espero que goste das minhas artes💕🎨🖼️
+<br>
+<img width="1000" src="https://i.pinimg.com/736x/32/40/c8/3240c8bd08b13a0b7c070e0a60ed5d6b.jpg">
+
+<br>
   
   ### Você pode entrar em contato comigo por aqui:
   <a href = "mailto:nair.santos0906@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -50,4 +54,6 @@ espero que goste das minhas artes
 
 <br>
 <img width="120" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-937.gif">
+
+
 </div>
