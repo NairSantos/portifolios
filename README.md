@@ -1,4 +1,4 @@
-# Portfolio - Setup e Deploy
+# Portfolio - Setup
 
 Este projeto exibe um exemplo de portifolio com upload e exibição de imagens diretamente do Firebase Storage. Aqui está o guia passo a passo para configurar tudo corretamente.
 
